@@ -1,1 +1,1 @@
-A Website i am creating to stdy Webdev
+A Website i am creating to study Webdev
